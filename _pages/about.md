@@ -26,7 +26,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 <span class='show_paper_citations' data='9yKSN-GCB0IC'></span>
 1234512345
-
+<span class='show_paper_citations' data='isWtY64AAAAJ:9yKSN-GCB0IC'></span>
+12345
 
 
 # 🔥 News
